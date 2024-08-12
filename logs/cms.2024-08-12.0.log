@@ -1,0 +1,50 @@
+2024-08-12 09:42:28.162 [INFO ] c.a.a.AccessControlApplication           : Starting AccessControlApplication using Java 17.0.12 with PID 17628 (C:\workspace\java\spring-security-6\target\classes started by DarshilPadia in C:\workspace\java\spring-security-6)
+2024-08-12 09:42:28.162 [INFO ] c.a.a.AccessControlApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-12 09:42:29.887 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-12 09:42:29.917 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:42:29.919 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-12 09:42:29.919 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-12 09:42:29.996 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-12 09:42:30.008 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1735 ms
+2024-08-12 09:42:30.549 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:42:30.590 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-12 09:42:30.609 [INFO ] c.a.a.AccessControlApplication           : Started AccessControlApplication in 3.173 seconds (process running for 4.435)
+2024-08-12 09:49:04.690 [INFO ] c.a.a.AccessControlApplication           : Starting AccessControlApplication using Java 17.0.12 with PID 20264 (C:\workspace\java\spring-security-6\target\classes started by DarshilPadia in C:\workspace\java\spring-security-6)
+2024-08-12 09:49:04.690 [INFO ] c.a.a.AccessControlApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-12 09:49:05.473 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-12 09:49:05.488 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:49:05.488 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-12 09:49:05.488 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-12 09:49:05.536 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-12 09:49:05.536 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 790 ms
+2024-08-12 09:49:05.787 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:49:05.802 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-12 09:49:05.818 [INFO ] c.a.a.AccessControlApplication           : Started AccessControlApplication in 1.536 seconds (process running for 1.8)
+2024-08-12 09:49:53.340 [INFO ] c.a.a.AccessControlApplication           : Starting AccessControlApplication using Java 17.0.12 with PID 22448 (C:\workspace\java\spring-security-6\target\classes started by DarshilPadia in C:\workspace\java\spring-security-6)
+2024-08-12 09:49:53.342 [INFO ] c.a.a.AccessControlApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-12 09:49:54.065 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-12 09:49:54.074 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:49:54.076 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-12 09:49:54.077 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-12 09:49:54.120 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-12 09:49:54.121 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 732 ms
+2024-08-12 09:49:54.374 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:49:54.392 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-12 09:49:54.405 [INFO ] c.a.a.AccessControlApplication           : Started AccessControlApplication in 1.472 seconds (process running for 1.723)
+2024-08-12 09:50:12.099 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-12 09:50:12.099 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-12 09:50:12.099 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-08-12 09:52:59.011 [INFO ] c.a.a.AccessControlApplication           : Starting AccessControlApplication using Java 17.0.12 with PID 11992 (C:\workspace\java\spring-security-6\target\classes started by DarshilPadia in C:\workspace\java\spring-security-6)
+2024-08-12 09:52:59.011 [INFO ] c.a.a.AccessControlApplication           : No active profile set, falling back to 1 default profile: "default"
+2024-08-12 09:52:59.739 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-12 09:52:59.755 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:52:59.755 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-12 09:52:59.755 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-12 09:52:59.802 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-12 09:52:59.802 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 744 ms
+2024-08-12 09:53:00.055 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-08-12 09:53:00.069 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-12 09:53:00.084 [INFO ] c.a.a.AccessControlApplication           : Started AccessControlApplication in 1.487 seconds (process running for 1.763)
+2024-08-12 09:53:07.000 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-12 09:53:07.000 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-12 09:53:07.000 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
